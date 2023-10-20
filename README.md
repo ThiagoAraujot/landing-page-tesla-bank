@@ -19,4 +19,4 @@ Projeto realizado na [FIAP](https://www.fiap.com.br/) com o objetivo de treinar 
 Acesse o layout utilizado feito no [Figma](https://www.figma.com) clicando [aqui](https://www.figma.com/file/9kTm02TzU4RyVflT3Jlmff/1ESPR?type=design&node-id=0-1&mode=design&t=rSqo3dFf6caEcFxP-0).
 
 ## :sparkles: Prévia
-Veja uma prévia clicando [aqui](https://candleaf-tau.vercel.app/).
+Veja uma prévia clicando [aqui](https://landing-page-tesla-bank.vercel.app/).
