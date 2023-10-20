@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Tesla Bank</h1>
+  <img src="image/logo.svg">
   
 </div>
 <hr/>
